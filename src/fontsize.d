@@ -27,6 +27,12 @@ void computeFontSize(Word[] words, in double minFontSize, in double maxFontSize)
 	}
 }
 
+/// function does nothing
+void doNothing()
+{
+
+}
+
 unittest
 {
 	import std.conv;
