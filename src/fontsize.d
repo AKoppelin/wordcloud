@@ -30,7 +30,7 @@ void computeFontSize(Word[] words, in double minFontSize, in double maxFontSize)
 /// function does nothing
 void doNothing()
 {
-
+/// there's no code necessary within this function because it really does nothing
 }
 
 unittest
